@@ -39,8 +39,6 @@ var sani = null;
 
 */
 
-
-
 /*
 //------- not allow is variable name ----//
 1. var 2name='sani';
@@ -48,3 +46,12 @@ var sani = null;
 3. var first last='md manik';
 4. var javascript='valo';
 */
+
+
+/* 
+//----set the variable name---//
+*/
+var name = 'Adib';
+console.log(name);
+name = 'Sakib';
+console.log(name);
