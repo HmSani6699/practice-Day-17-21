@@ -26,4 +26,4 @@ var debag = maney / man;
 var maney = 107;
 var man = 5;
 var bagFal = maney % man;
-console.log(bagFal)
+console.log(bagFal);
